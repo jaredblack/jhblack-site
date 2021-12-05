@@ -21,7 +21,7 @@ let characterList = [
         ],
         goodTraits: [
             "Virtuous, strong, just",
-            "Loved their wife"
+            "Loves their wife"
         ],
         badTraits: [
             "Appeared not to really trust their spouse and subjected them to tests"
@@ -113,7 +113,7 @@ let characterList = [
             "Yang", "gui", "fei"
         ],
         goodTraits: [
-            "Loved lychee"
+            "Loves lychee"
         ],
         badTraits: [
 
