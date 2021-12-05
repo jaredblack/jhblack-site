@@ -288,6 +288,79 @@ let characterList = [
             "Not portrayed as being very bright"
         ]
     },
+    {
+        sourceText: "Beowulf",
+        name: "Beowulf",
+        nameSyllables: [
+            "Beo", "wulf"
+        ],
+        goodTraits: [
+            "Courageous warrior",
+            "Stable and righteous monarch that leads nation to prosperity",
+            "Attributes success and victory to the Almighty"
+        ],
+        badTraits: [
+            "Sometimes acts recklessly due to their ego and hubris"
+        ]
+    },
+    {
+        sourceText: "Beowulf",
+        name: "Grendel",
+        nameSyllables: [
+            "Gren", "del"
+        ],
+        goodTraits: [
+
+        ],
+        badTraits: [
+            "An outcast which society doesn't allow within its borders",
+            "Turns to murder because of jealousy"
+        ]
+    },
+    {
+        sourceText: "Beowulf",
+        name: "Hrothgar",
+        nameSyllables: [
+            "Hroth", "gar"
+        ],
+        goodTraits: [
+            "A parental figure",
+            "The wisest person around",
+            "Is aware of the negative effects of pride"
+        ],
+        badTraits: [
+            "A bit past their prime, has trouble fulfilling their duty to defend"
+        ]
+    },
+    {
+        sourceText: "Beowulf",
+        name: "Wiglaf",
+        nameSyllables: [
+            "Wig", "laf"
+        ],
+        goodTraits: [
+            "The most loyal friend one could ask for",
+            "Courageous even when the odds are stacked against them",
+            "The kind of person to stick around and help put the chairs away when nobody asks them to"
+        ],
+        badTraits: [
+        ]
+    },
+    {
+        sourceText: "Beowulf",
+        name: "Unferth",
+        nameSyllables: [
+            "Un", "ferth"
+        ],
+        goodTraits: [
+            "A decent warrior",
+            "Generous, gives the true hero a sword"
+        ],
+        badTraits: [
+            "Jealous, tries to put others down to make themselves feel better",
+            "Killed their own brothers"
+        ]
+    }
 ]
 
 function showDiv() {
