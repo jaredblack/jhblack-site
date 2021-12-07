@@ -21,7 +21,7 @@ let characterList = [
         ],
         goodTraits: [
             "Virtuous, strong, just",
-            "Loves their wife"
+            "Loves their spouse"
         ],
         badTraits: [
             "Appeared not to really trust their spouse and subjected them to tests"
