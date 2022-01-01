@@ -23,3 +23,16 @@
 #characterBox {
     display: none;
 }
+
+.hex-text {
+    display: flex;
+    align-items: center;
+}
+
+.color-box {
+    height: 200px;
+}
+
+#topBar {
+    background-color: rgb(232, 243, 252);
+}
